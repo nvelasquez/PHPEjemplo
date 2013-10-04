@@ -1,0 +1,15 @@
+#mainDiv {
+	border: 1px solid #000;
+	width: 1200px;
+	height: 800px;
+	overflow: auto;
+}
+
+#tableForm {
+	width: 1200px;	
+}
+
+#tableForm thead{
+	background: #000;
+	color: #f2f2f2;	
+}
